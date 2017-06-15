@@ -1,0 +1,22 @@
+{
+  "name": "KPLLog",
+  "version": "0.1.0",
+  "summary": "A short description of KPLLog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MrXiaoYang/KPLLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrXiaoYang": "582385082@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/MrXiaoYang/KPLLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KPLLog/Classes/**/*"
+}

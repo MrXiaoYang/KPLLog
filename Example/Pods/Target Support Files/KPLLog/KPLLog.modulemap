@@ -1,0 +1,6 @@
+framework module KPLLog {
+  umbrella header "KPLLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
