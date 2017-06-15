@@ -31,10 +31,10 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.subspec 'KPLTwo' do |kTwo|
-    kTwo.source_files = 'KPLLog/Classes/KPLTwo/**/*'
+    kTwo.source_files = 'KPLLog/Classes/KPLTwo/*'
   end
     s.subspec 'KPLThree' do |kThree|
-    kThree.source_files = 'KPLLog/Classes/KPLThree/**/*'
+    kThree.source_files = 'KPLLog/Classes/KPLThree/*'
     end
 
   # s.resource_bundles = {
